@@ -1,0 +1,11 @@
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\bin\Debug\Arduino_Servo_Cont.v2.exe.config
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\bin\Debug\Arduino_Servo_Cont.v2.exe
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\bin\Debug\Arduino_Servo_Cont.v2.pdb
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino Servo Cont. v2.csprojResolveAssemblyReference.cache
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.Form1.resources
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.Properties.Resources.resources
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino Servo Cont. v2.csproj.GenerateResource.Cache
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.exe
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.pdb
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.AboutBox1.resources
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.AboutBox2.resources
