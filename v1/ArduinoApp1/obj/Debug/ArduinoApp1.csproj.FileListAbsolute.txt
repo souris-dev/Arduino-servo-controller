@@ -1,0 +1,9 @@
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\bin\Debug\ArduinoApp1.exe.config
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\bin\Debug\ArduinoApp1.exe
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\bin\Debug\ArduinoApp1.pdb
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\Debug\ArduinoApp1.csprojResolveAssemblyReference.cache
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\Debug\ArduinoApp1.Form1.resources
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\Debug\ArduinoApp1.Properties.Resources.resources
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\Debug\ArduinoApp1.csproj.GenerateResource.Cache
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\Debug\ArduinoApp1.exe
+c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\Debug\ArduinoApp1.pdb

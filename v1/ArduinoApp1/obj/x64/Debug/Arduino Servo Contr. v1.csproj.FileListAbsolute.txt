@@ -1,0 +1,14 @@
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\bin\x64\Debug\ArduinoApp1.exe.config
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\x64\Debug\ArduinoApp1.exe
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\x64\Debug\ArduinoApp1.pdb
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\bin\x64\Debug\ArduinoApp1.exe
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\bin\x64\Debug\ArduinoApp1.pdb
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\bin\x64\Debug\fluent.dll
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\bin\x64\Debug\fluent.pdb
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\bin\x64\Debug\fluent.xml
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\x64\Debug\Arduino Servo Contr. v1.csprojResolveAssemblyReference.cache
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\x64\Debug\ArduinoApp1.AboutBox1.resources
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\x64\Debug\ArduinoApp1.AboutBox2.resources
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\x64\Debug\ArduinoApp1.MainWin.resources
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\x64\Debug\ArduinoApp1.Properties.Resources.resources
+C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp1\ArduinoApp1\obj\x64\Debug\Arduino Servo Contr. v1.csproj.GenerateResource.Cache
