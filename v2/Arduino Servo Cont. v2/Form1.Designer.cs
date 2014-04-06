@@ -124,7 +124,7 @@
             // 
             this.status.Font = new System.Drawing.Font("Open Sans", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.status.Name = "status";
-            this.status.Size = new System.Drawing.Size(877, 18);
+            this.status.Size = new System.Drawing.Size(905, 18);
             this.status.Spring = true;
             this.status.Text = "Disconnected from Arduino. Press \"Connect to Arduino\" to connect to the Arduino o" +
     "n specified COM port.";
@@ -273,7 +273,9 @@
             // connect_ard_m
             // 
             this.connect_ard_m.Name = "connect_ard_m";
-            this.connect_ard_m.Size = new System.Drawing.Size(181, 22);
+            this.connect_ard_m.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.A)));
+            this.connect_ard_m.Size = new System.Drawing.Size(243, 22);
             this.connect_ard_m.Text = "Connect to &Arduino";
             this.connect_ard_m.Click += new System.EventHandler(this.connect_ard_Click);
             // 
@@ -281,7 +283,9 @@
             // 
             this.disconnect_ard.Enabled = false;
             this.disconnect_ard.Name = "disconnect_ard";
-            this.disconnect_ard.Size = new System.Drawing.Size(181, 22);
+            this.disconnect_ard.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.D)));
+            this.disconnect_ard.Size = new System.Drawing.Size(243, 22);
             this.disconnect_ard.Text = "&Disconnect";
             this.disconnect_ard.Click += new System.EventHandler(this.disconnect_ard_Click);
             // 
@@ -293,7 +297,8 @@
             // exit_app
             // 
             this.exit_app.Name = "exit_app";
-            this.exit_app.Size = new System.Drawing.Size(181, 22);
+            this.exit_app.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.F4)));
+            this.exit_app.Size = new System.Drawing.Size(243, 22);
             this.exit_app.Text = "&Exit";
             this.exit_app.Click += new System.EventHandler(this.exit_app_Click);
             // 
@@ -310,14 +315,18 @@
             // centerServosToolStripMenuItem
             // 
             this.centerServosToolStripMenuItem.Name = "centerServosToolStripMenuItem";
-            this.centerServosToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
+            this.centerServosToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.C)));
+            this.centerServosToolStripMenuItem.Size = new System.Drawing.Size(214, 22);
             this.centerServosToolStripMenuItem.Text = "&Center servos";
             this.centerServosToolStripMenuItem.Click += new System.EventHandler(this.center_servos_Click);
             // 
             // updateToolStripMenuItem
             // 
             this.updateToolStripMenuItem.Name = "updateToolStripMenuItem";
-            this.updateToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
+            this.updateToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.U)));
+            this.updateToolStripMenuItem.Size = new System.Drawing.Size(214, 22);
             this.updateToolStripMenuItem.Text = "&Update";
             this.updateToolStripMenuItem.Click += new System.EventHandler(this.updatePos_Click);
             // 
@@ -333,14 +342,16 @@
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
+            this.aboutToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F2;
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.aboutToolStripMenuItem.Text = "A&bout";
-            this.aboutToolStripMenuItem.Click += new System.EventHandler(this.helpToolStripMenuItem_Click);
+            this.aboutToolStripMenuItem.Click += new System.EventHandler(this.about_Click);
             // 
             // helpToolStripMenuItem
             // 
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
+            this.helpToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F1;
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.helpToolStripMenuItem.Text = "Hel&p";
             this.helpToolStripMenuItem.Click += new System.EventHandler(this.helpToolStripMenuItem_Click);
             // 

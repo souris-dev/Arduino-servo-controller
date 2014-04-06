@@ -403,12 +403,6 @@ namespace Arduino_Servo_Cont.v2
             }
         }
 
-        private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            AboutBox1 abt = new AboutBox1();
-            abt.Show(this);
-        }
-
         private void portBox_qeyDaoon(object sender, KeyEventArgs e)
         {
             portBox.Text = "";
@@ -464,7 +458,6 @@ namespace Arduino_Servo_Cont.v2
             trackBar8.Value = int.Parse(maskedTextBox8.Text);
             trackBar9.Value = int.Parse(maskedTextBox9.Text);
             trackBar10.Value = int.Parse(maskedTextBox10.Text);
-            
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
@@ -480,6 +473,12 @@ namespace Arduino_Servo_Cont.v2
             settings.S8 = maskedTextBox8.Text;
             settings.S9 = maskedTextBox9.Text;
             settings.S10 = maskedTextBox10.Text;
+        }
+
+        private void about_Click(object sender, EventArgs e)
+        {
+            AboutBox about = new AboutBox();
+            about.Show(this);
         }
     }
 }

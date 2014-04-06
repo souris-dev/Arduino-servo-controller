@@ -9,3 +9,14 @@ c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo 
 c:\users\souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.pdb
 C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.AboutBox1.resources
 C:\Users\Souris\documents\visual studio 2012\Projects\ArduinoApp2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.AboutBox2.resources
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\bin\Debug\Arduino_Servo_Cont.v2.exe.config
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.exe
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.pdb
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\obj\Debug\Arduino Servo Cont. v2.csprojResolveAssemblyReference.cache
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.AboutBox.resources
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.AboutBox2.resources
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.Form1.resources
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\obj\Debug\Arduino_Servo_Cont.v2.Properties.Resources.resources
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\obj\Debug\Arduino Servo Cont. v2.csproj.GenerateResource.Cache
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\bin\Debug\Arduino_Servo_Cont.v2.exe
+C:\Users\Souris\Documents\GitHub\Arduino-servo-controller\v2\Arduino Servo Cont. v2\bin\Debug\Arduino_Servo_Cont.v2.pdb

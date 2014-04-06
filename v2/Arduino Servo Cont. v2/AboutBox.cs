@@ -10,16 +10,15 @@ using System.Windows.Forms;
 
 namespace Arduino_Servo_Cont.v2
 {
-    partial class AboutBox2 : Form
+    partial class AboutBox : Form
     {
-        public AboutBox2()
+        public AboutBox()
         {
             InitializeComponent();
             /*this.Text = String.Format("About {0}", AssemblyTitle);
             this.labelProductName.Text = AssemblyProduct;
             this.labelVersion.Text = String.Format("Version {0}", AssemblyVersion);
             this.labelCopyright.Text = AssemblyCopyright;
-            this.labelCompanyName.Text = AssemblyCompany;
             this.textBoxDescription.Text = AssemblyDescription;*/
         }
 
@@ -103,14 +102,22 @@ namespace Arduino_Servo_Cont.v2
         }
         #endregion
 
-        private void button1_Click(object sender, EventArgs e)
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Close();
+            Process.Start(e.Link.LinkData as string);
         }
 
-        private void richTextBox1_LinkClicked(object sender, LinkClickedEventArgs e)
+        private void AboutBox_Load(object sender, EventArgs e)
         {
-            Process.Start(e.LinkText as string);
+            // Add a link to the LinkLabel.
+            LinkLabel.Link link = new LinkLabel.Link();
+            link.LinkData = "http://souris-dev.github.io/Arduino-servo-controller/";
+            linkLabel1.Links.Add(link);
+        }
+
+        private void okButton_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
