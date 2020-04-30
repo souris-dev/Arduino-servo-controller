@@ -17,7 +17,7 @@ Getting Started
 
 **Note**: The software has not been thoroughly tested yet. **Use at your own risk.**
 
-1. Download the ZIP file, or checkout/clone the repo.
+1. Download the ZIP file, or clone the repo.
 2. Open the Solution in you Visual Studio IDE (best to use 2012, others may/may not work, express will work).
 3. Build the whole solution.
 4. Upload the sketch "RemoteCont.ino" onto the Arduino Mega/Uno using the Arduino IDE.
